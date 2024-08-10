@@ -1,32 +1,34 @@
+from typing import List
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-
-        def binary_search(nums,target,search):
-
+        
+        """if not nums:
+            return [-1,-1]"""
+        
+        def binary(array,check,target):
             left = 0
             right = len(nums)-1
-            idx = -1
-
+            res = -1
             while left<=right:
-
                 mid = (left+right)//2
 
-                if nums[mid] == target:
-                    idx = mid
-
-                    if search:
-                        
-                        right = mid-1
-                    else:
+                if target == array[mid]:
+                    res = mid
+                    if check == True:
                         left = mid+1
-                elif nums[mid] > target:
-                    
-                    right = mid-1
-                else:
+                    else:
+                        right = mid-1
 
+                elif array[mid] <= target:
                     left = mid+1
-            return idx
-        
-        leftval = binary_search(nums,target,True)
-        rightval = binary_search(nums,target,False)
+                else:
+                    right = mid-1
+
+            
+            return res
+
+        leftval = binary(nums,False,target)
+        rightval = binary(nums,True,target)
+
         return [leftval,rightval]
+            
