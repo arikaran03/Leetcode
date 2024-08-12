@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/arikaran03/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0328-odd-even-linked-list](https://github.com/arikaran03/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arikaran03/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arikaran03/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/arikaran03/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arikaran03/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arikaran03/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arikaran03/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/arikaran03/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
