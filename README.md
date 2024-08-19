@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 ## Sorting
