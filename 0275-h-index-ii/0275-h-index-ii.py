@@ -5,26 +5,26 @@ class Solution:
         citations = citations[::-1]
         
         idx = 0
-        prev = citations[0]
-        check = True
+        left = 0
+        right = len(citations)-1 
 
-        while idx<len(citations):
-            if citations[idx] !=0:
-                check = False
+        while left<=right:
+
+            idx = (left+right)//2
             
-            if citations[idx] < idx+1:
+            if citations[idx] == idx+1:
                 
-                if check:
-                    return 0
-
-                return idx
-            elif citations[idx] <= idx+1:
-                if check:
-                    return 0
-
                 return idx+1
-                
-            prev = citations[idx]
-            idx += 1
             
-        return idx
+            if citations[idx] > idx+1:
+                left = idx+1
+            else:
+                right = idx-1
+            
+        if citations[idx] < idx+1:
+
+            return idx
+        elif citations[idx] <= idx+1:
+
+            return idx+1
+        return idx+1
