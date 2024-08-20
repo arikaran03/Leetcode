@@ -24,7 +24,5 @@ class Solution:
         if citations[idx] < idx+1:
 
             return idx
-        elif citations[idx] <= idx+1:
-
-            return idx+1
+        
         return idx+1
