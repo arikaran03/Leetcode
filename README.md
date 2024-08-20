@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/arikaran03/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/arikaran03/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
