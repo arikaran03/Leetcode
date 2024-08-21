@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arikaran03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/arikaran03/Leetcode/tree/master/0061-rotate-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arikaran03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0274-h-index](https://github.com/arikaran03/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
@@ -89,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/arikaran03/Leetcode/tree/master/0274-h-index) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arikaran03/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
