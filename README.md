@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arikaran03/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arikaran03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0274-h-index](https://github.com/arikaran03/Leetcode/tree/master/0274-h-index) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arikaran03/Leetcode/tree/master/0001-two-sum) |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/arikaran03/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Sliding Window
