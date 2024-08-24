@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/arikaran03/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arikaran03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/arikaran03/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
@@ -102,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arikaran03/Leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
