@@ -6,14 +6,11 @@ class Solution:
         sum = 0
         for right in range(len(nums)):
             sum += nums[right]
-            if sum >= target:
-                min_idx = min(min_idx, right-left+1)
             
-            while sum>target:
+            while sum>=target:
 
+                min_idx = min(min_idx, right-left+1)
                 sum -= nums[left]
                 left+=1
-                if sum >= target:
-                    min_idx = min(min_idx, right-left+1)
     
         return min_idx if min_idx!= float('inf') else 0
