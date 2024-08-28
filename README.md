@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/arikaran03/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/arikaran03/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/arikaran03/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## String
 |  |
 | ------- |
