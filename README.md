@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/arikaran03/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
+| [0792-binary-search](https://github.com/arikaran03/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/arikaran03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/arikaran03/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arikaran03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/arikaran03/Leetcode/tree/master/0275-h-index-ii) |
+| [0792-binary-search](https://github.com/arikaran03/Leetcode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 ## Sorting
