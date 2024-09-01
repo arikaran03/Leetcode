@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/arikaran03/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arikaran03/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/arikaran03/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/arikaran03/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/arikaran03/Leetcode/tree/master/1642-water-bottles) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/arikaran03/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3336-water-bottles-ii](https://github.com/arikaran03/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Stack
 |  |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arikaran03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/arikaran03/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
