@@ -7,8 +7,7 @@ class Solution:
             for row in range(m):
 
                 for col in range(n):
-                    if i>len(original):
-                        break
+                    
                     array[row][col] = original[i]
                     i+=1
         else : return []
