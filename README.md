@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/arikaran03/Leetcode/tree/master/1642-water-bottles) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/arikaran03/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arikaran03/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3336-water-bottles-ii](https://github.com/arikaran03/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Stack
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arikaran03/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2027-maximum-number-of-removable-characters](https://github.com/arikaran03/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/arikaran03/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Counting Sort
 |  |
 | ------- |
